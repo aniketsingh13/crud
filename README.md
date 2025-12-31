@@ -1,2 +1,2 @@
 # crud
-a basic java spring boot mongodb crud app
+a basic java spring boot mongodb crud apis
